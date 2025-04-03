@@ -15,6 +15,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nest" alt="Nest" width="50" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=next" alt="Next" width="50" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
