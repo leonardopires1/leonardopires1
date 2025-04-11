@@ -27,8 +27,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=cs" alt="CSharp" width="50" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
@@ -43,13 +41,9 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=prisma" alt="PrismaORM" width="50" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" />
   <img width="14" />
 </div>
 
